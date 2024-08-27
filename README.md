@@ -1,5 +1,7 @@
 # 3D_Modelling_MyHead
 
+In the 3D Modeling and Animation class at school, I designed a 3D model of our own head in the Maya environment. I also added a wav audio file in the background, where I animated my lips and introduced myself.
+
 ## Pictures of the project:
 
 ![image](https://user-images.githubusercontent.com/102792446/216297516-b8c0f3e3-2725-4c60-bbf7-ce07a682f25c.png)
